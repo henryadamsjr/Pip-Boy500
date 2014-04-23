@@ -1,0 +1,24 @@
+{
+    "uuid": "6adcae11-68e4-4329-a0fb-c8328c842f48",
+    "watchapp": {
+        "watchface": true
+    },
+    "versionLabel": "1.0",
+    "companyName": "bicman11@yahoo.com",
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Pip-Boy 500",
+    "longName": "Pip-Boy 500",
+    "versionCode": 1,
+    "appKeys": {},
+    "resources": {
+        "media": [
+            {
+                "type": "font",
+                "name": "FONT_FALLOUT_28",
+                "file": "fonts/fallout.ttf"
+            }
+        ]
+    }
+}
